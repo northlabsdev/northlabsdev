@@ -1,7 +1,7 @@
 # 🧭 Welcome to northlabs.dev
 
 <p align="center">
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 150'%3E%3Crect width='100%' height='100%' fill='%23020617'/%3E%3Ctext x='300' y='95' font-family='-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif' font-size='56' font-weight='700' text-anchor='middle'%3E%3Ctspan fill='%23ffffff'%3Enorthlabs%3C/tspan%3E%3Ctspan fill='%2322d3ee'%3E.dev%3C/tspan%3E%3C/text%3E%3C/svg%3E" width="600" />
+  <img src="logo.svg" width="800" alt="northlabs.dev logo" />
 </p>
 
 <p align="center">
